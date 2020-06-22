@@ -47,3 +47,11 @@ CompleteNLP.ipynb:
 https://github.com/RAHIL1167/CSE6060-SNLP/blob/master/completeNLP.ipynb
 
 This is a combined file of all the above files
+
+DA-NLPtools-AWStest.ipynb
+
+Digital assignment exploring AWS comprehend
+
+https://github.com/RAHIL1167/CSE6060-SNLP/blob/master/DA-NLPtools-AWStest.ipynb
+
+In this sentiment analysis is done using boto3 sdk and comprehend framework
